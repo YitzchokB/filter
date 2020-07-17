@@ -22,7 +22,7 @@
     "@babel/preset-env": "^7.5.0",
     "@tensorflow/tfjs": "^1.2.2",
     "babel-loader": "^8.0.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "nsfwjs": "^2.0.0"
   }
 }
